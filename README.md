@@ -56,11 +56,11 @@ If you are interested to be informed about the project or to contribute, feel fr
 
 ### Discussions
 
-For those who are brand new to OpenFeature and want to chat or get redirected to the appropriate place for a specific question, feel free to join [the Slack channel]().
+For those who are brand new to the project and want to chat or get redirected to the appropriate place for a specific question, feel free to join [the Slack channel]().
 
 ### Calendar
 
-The community calendar contains all the upcoming OpenFeature meetings and events. You can access it via:
+The community calendar contains all the upcoming project meetings and events. You can access it via:
 
 - [Web]()
 - [Google Calendar]()
@@ -82,7 +82,7 @@ Join our (low-traffic) [mailing list]() to stay up to date on announcements, dis
 ## Roadmap
 
 The project roadmap is available [here](https://github.com/orgs/security-as-code/projects/).
-New initiatives require an accepted [Enhancement Proposal (OFEP)](). A community decision will then be made as documented in [Decision Making](./governance-charter.md#decision-making).
+New initiatives require an accepted [Enhancement Proposal (EP)](). A community decision will then be made as documented in [Decision Making](./governance-charter.md#decision-making).
 
 ## License
 
