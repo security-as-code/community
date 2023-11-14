@@ -160,7 +160,7 @@ core components may have higher bar for becoming an approver.
 
 ## Maintainer
 
-Maintainers are the technical authority for a subproject in the OpenFeature
+Maintainers are the technical authority for a subproject in the Security-as-code
 project. They _MUST_ have demonstrated both good judgement and responsibility
 towards the health of that subproject. Maintainers _MUST_ set technical
 direction and make or approve design decisions for their subproject - either
